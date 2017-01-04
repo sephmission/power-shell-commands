@@ -2,7 +2,7 @@
 Use these commands to help you in technical and administration support to our users/computers
 
 
-## Restore Points
+## Restore Points (Create and Restore)
 
 1. To see the system restore points, you need to enter the command `Get-ComputerRestorePoint`
 
