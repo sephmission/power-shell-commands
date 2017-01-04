@@ -15,6 +15,6 @@ Use these commands to help you in technical and administration support to our us
 1. To see all the processes, type `Get-Process | ogv`
 2. To stop a process, type `Stop-Process -name <ProcessName>`
 
-## Renaming Computer
+## Renaming a Computer
 1. Type `Rename-Computer <Name>`
 
