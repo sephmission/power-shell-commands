@@ -17,3 +17,5 @@ Use these commands to help you in technical and administration support to our us
 
 ## Renaming a Computer
 1. Type `Rename-Computer <Name>`
+
+## Monitoring
