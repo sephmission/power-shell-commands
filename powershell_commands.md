@@ -16,6 +16,6 @@ Use these commands to help you in technical and administration support to our us
 2. To stop a process, type `Stop-Process -name <ProcessName>`
 
 ## Renaming a Computer
-1. Type `Rename-Computer <Name>`
+1. Type, `Rename-Computer <Name>`
 
 ## Monitoring
